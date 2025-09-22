@@ -1,5 +1,5 @@
 # roblox-dma
-A DMA (Direct Memory Access) Project for ROBLOX.<br>
+A DMA (Direct Memory Access) Project for ROBLOX.
 # Version
 This project is using the offsets for `version-31fc142272764f02`. You may need to update it manually if you are implementing in the future.
 # SDK
@@ -8,3 +8,6 @@ This project features an SDK for the local player, if you are attempting to crea
 2x Computers<br>
 1x DMA<br>
 Updated offsets (if needed)
+# Credits
+DMA Headers, etc: **IntelSDM** (https://github.com/IntelSDM/DMAByDaylight)
+A ton of public sources on github for Roblox externals (notable: https://github.com/disbuted/roblox-external-source)
